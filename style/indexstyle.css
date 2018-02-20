@@ -5,6 +5,8 @@
 	top:10%;
 	width:49%;
 	height:25%;
+	border-top-right-radius:50px;
+	border-bottom-right-radius:50px;
 }
 
 #inhaltText{
@@ -23,6 +25,8 @@
 	top:10%;
 	width:49%;
 	height:25%;
+	border-top-left-radius:50px;
+	border-bottom-left-radius:50px;
 }
 
 #bestellText{
@@ -41,6 +45,8 @@
 	top:36%;
 	width:49%;
 	height:25%;
+	border-bottom-right-radius:50px;
+	border-top-right-radius:50px;
 }
 
 #listText{
@@ -59,6 +65,8 @@
 	top:36%;
 	width:49%;
 	height:25%;
+	border-bottom-left-radius:50px;
+	border-top-left-radius:50px;
 }
 
 #recipeText{
