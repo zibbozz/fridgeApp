@@ -1,0 +1,26 @@
+#infoBox{
+	position:absolute;
+	top:140px;
+	width:100%;
+	height:300px;
+	background-color:#666666;
+}
+
+.infoText{
+	color:#FFFFFF;
+	font-size:40px;
+}
+
+#version{
+	position:absolute;
+	width:100%;
+	text-align:center;
+	top:15px;
+}
+
+#resolution{
+	position:absolute;
+	width:100%;
+	top:75px;
+	text-align:center;
+}

@@ -158,3 +158,10 @@
 	top:85%;
 	font-size:50px;
 }
+
+#infoButton{
+	position:absolute;
+	right:10px;
+	bottom:10px;
+	height:100px;
+}
