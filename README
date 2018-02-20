@@ -5,7 +5,11 @@ Anzeige getestet in der neusten Chrome Version.
 Entwickelt für den iPad Pro Modus (1024x1366)
 F12 => Handy Symbol oben rechts => In der oberen Leiste iPad Pro auswählen
 
-===================================================
+======================================================================
+
+Verwalten der bestellbaren Artikel ist nur durch einen Button angedeutet und soll nicht zum Prototypen gehören, da das Verwalten über einen Drittanbieter Account funktionieren soll (Amazon oder Ähnliches)
+
+======================================================================
 
 Bisherige Feature-Liste:
 
