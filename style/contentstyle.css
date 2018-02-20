@@ -40,3 +40,19 @@
 	text-align:center;
 	bottom:10px;
 }
+
+#searchIcon{
+	position:fixed;
+	right:10px;
+	height:100px;
+	bottom:10px;
+}
+
+#searchBar{
+	position:fixed;
+	bottom:20px;
+	width:55%;
+	height:80px;
+	right:120px;
+	font-size:40px;
+}
