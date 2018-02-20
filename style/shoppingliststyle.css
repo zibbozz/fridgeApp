@@ -1,0 +1,31 @@
+.list{
+	position:absolute;
+	height:140px;
+	width:100%;
+	background-color:#666666;
+}
+
+.listName{
+	position:absolute;
+	width:100%;
+	text-align:center;
+	color:#FFFFFF;
+	font-size:40px;
+	top:15px;
+}
+
+.listDelete{
+	position:absolute;
+	width:50px;
+	top:20px;
+	right:10px;
+}
+
+.listOpen{
+	position:absolute;
+	width:100%;
+	text-align:center;
+	color:#FFFFFF;
+	font-size:40px;
+	bottom:5px;
+}
