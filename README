@@ -1,6 +1,6 @@
 Der Prototyp für die Smart-Kühlschrank-App
 
-Anzeige getestet in der neusten Chrome Version.
+Anzeige getestet in der neusten Chrome Version. In Firefox werden Umlaute nicht korrekt angezeigt.
 
 Entwickelt für den iPad Pro Modus (1024x1366)
 F12 => Handy Symbol oben rechts => In der oberen Leiste iPad Pro auswählen
