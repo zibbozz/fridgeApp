@@ -1,0 +1,160 @@
+#inhaltButton{
+	position:absolute;
+	background-color:#666666;
+	left:0px;
+	top:10%;
+	width:49%;
+	height:25%;
+}
+
+#inhaltText{
+	position:absolute;
+	color:#FFFFFF;
+	text-align:center;
+	font-size:80px;
+	width:100%;
+	top:65px;
+}
+
+#bestellButton{
+	position:absolute;
+	background-color:#666666;
+	right:0px;
+	top:10%;
+	width:49%;
+	height:25%;
+}
+
+#bestellText{
+	position:absolute;
+	color:#FFFFFF;
+	width:100%;
+	text-align:center;
+	font-size:80px;
+	top:120px;
+}
+
+#listButton{
+	position:absolute;
+	background-color:#666666;
+	left:0px;
+	top:36%;
+	width:49%;
+	height:25%;
+}
+
+#listText{
+	position:absolute;
+	color:#FFFFFF;
+	width:100%;
+	text-align:center;
+	font-size:80px;
+	top:120px;
+}
+
+#recipeButton{
+	position:absolute;
+	background-color:#666666;
+	right:0px;
+	top:36%;
+	width:49%;
+	height:25%;
+}
+
+#recipeText{
+	position:absolute;
+	color:#FFFFFF;
+	width:100%;
+	text-align:center;
+	font-size:80px;
+	top:120px;
+}
+
+#temperatureText{
+	position:absolute;
+	color:#FFFFFF;
+	text-align:center;
+	width:100%;
+	font-size:50px;
+	top:62%;
+}
+
+#temp1Text{
+	position:absolute;
+	color:#FFFFFF;
+	left:0px;
+	width:50%;
+	text-align:center;
+	top:67%;
+	font-size:50px;
+}
+
+#temp1Value{
+	position:absolute;
+	color:#33FF33;
+	right:0px;
+	width:50%;
+	text-align:center;
+	top:67%;
+	font-size:50px;
+}
+
+#temp2Text{
+	position:absolute;
+	color:#FFFFFF;
+	left:0px;
+	width:50%;
+	text-align:center;
+	top:73%;
+	font-size:50px;
+}
+
+#temp2Value{
+	position:absolute;
+	color:#FF3333;
+	right:0px;
+	width:50%;
+	text-align:center;
+	top:73%;
+	font-size:50px;
+}
+
+#temp3Text{
+	position:absolute;
+	color:#FFFFFF;
+	left:0px;
+	width:50%;
+	text-align:center;
+	top:79%;
+	font-size:50px;
+}
+
+#temp3Value{
+	position:absolute;
+	color:#33FF33;
+	right:0px;
+	width:50%;
+	text-align:center;
+	top:79%;
+	font-size:50px;
+}
+
+#temp4Text{
+	position:absolute;
+	color:#FFFFFF;
+	left:0px;
+	width:50%;
+	text-align:center;
+	top:85%;
+	font-size:50px;
+}
+
+#temp4Value{
+	position:absolute;
+	color:#33FF33;
+	right:0px;
+	width:50%;
+	text-align:center;
+	top:85%;
+	font-size:50px;
+}

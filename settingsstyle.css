@@ -1,0 +1,83 @@
+.setting{
+	position:absolute;
+	width:100%;
+	height:8%;
+	background-color:#666666;
+}
+
+.settingText{
+	position:absolute;
+	color:#FFFFFF;
+	text-align:center;
+	width:50%;
+	top:10%;
+	font-size:40px;
+}
+
+.option{
+	position:absolute;
+	background-color:#222222;
+	width:12%;
+	height:40%;
+	right:5%;
+	top:30%;
+	border-radius:100px;
+}
+
+.on{
+	background-color:#00BB00;
+}
+
+.slider{
+	position:absolute;
+	background-color:#888888;
+	height:100%;
+	width:35%;
+	border-radius:100px;
+}
+
+.option .on{
+	right:0px;
+	background-color:#33FF33;
+}
+
+.settingsButton{
+	position:absolute;
+	color:#FFFFFF;
+	width:100%;
+	text-align:center;
+	font-size:40px;
+	top:20%;
+}
+
+.inputBox{
+	position:absolute;
+	right:5%;
+	width:40%;
+	top:10%;
+	height:80%;
+}
+
+.textInput{
+	position:absolute;
+	width:100%;
+	height:100%;
+	font-size:60px;
+}
+
+.settingValue{
+	position:absolute;
+	width:50%;
+	right:0px;
+	text-align:center;
+	color:#FFFFFF;
+	font-size:40px;
+}
+
+.colorBox{
+	position:absolute;
+	width:80%;
+	left:10%;
+	height:75%;
+	background-color:#FFFFDD;
+}

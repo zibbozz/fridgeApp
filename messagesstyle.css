@@ -1,0 +1,24 @@
+.messageBox{
+	position:absolute;
+	width:100%;
+	background-color:#666666;
+	height:12%;
+}
+
+.messageHeader{
+	position:absolute;
+	color:#FFFFFF;
+	font-size:50px;
+	top:5px;
+	width:100%;
+	text-align:center;
+}
+
+.messageContent{
+	position:absolute;
+	color:#FFFFFF;
+	font-size:40px;
+	bottom:5px;
+	text-align:center;
+	width:100%;
+}

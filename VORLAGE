@@ -1,0 +1,24 @@
+<html>
+	<head>
+		<title>Smart Fridge</title>
+		<link rel="stylesheet" href="mainstyle.css" />
+	</head>
+	<body>
+		<div id="headerBar">
+			<span id="header">Überschrift</span>
+			<a href="messages.html">
+				<img src="brief.svg" id="messagesIcon"/>
+			</a>
+			<a href="index.html">
+				<img src="home.svg" id="homeIcon"/>
+			</a>
+			<a href="settings.html">
+				<img src="zahnrad.svg" id="settingsIcon"/>
+			</a>
+		</div>
+
+		<div id="footerBar">
+
+		</div>
+	</body>
+</html>

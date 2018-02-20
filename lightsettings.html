@@ -1,0 +1,38 @@
+<html>
+	<head>
+		<title>Smart Fridge</title>
+		<link rel="stylesheet" href="mainstyle.css" />
+		<link rel="stylesheet" href="settingsstyle.css" />
+	</head>
+	<body>
+		<div id="headerBar">
+			<span id="header" style="font-size:63px">Lichteinstellungen</span>
+			<a href="messages.html">
+				<img src="brief.svg" id="messagesIcon"/>
+			</a>
+			<a href="index.html">
+				<img src="home.svg" id="homeIcon"/>
+			</a>
+			<a href="settings.html">
+				<img src="zahnrad.svg" id="settingsIcon"/>
+			</a>
+		</div>
+		<div class="setting" style="top:10%">
+			<span class="settingText">Nachtmodus</span>
+			<span class="option"><span class="slider"></span></span>
+		</div>
+		<div class="setting" style="top:20%">
+			<span class="settingText">Farbe</span>
+			<span class="settingValue">Farbe wählen...<div class="colorBox"></div></span>
+		</div>
+		<div class="setting" style="top:30%">
+			<span class="settingText" style="top:30%">Helligkeit</span>
+			<span class="inputBox"><input type="text" class="textInput" value="100%"/></span>
+		</div>
+		<div id="footerBar">
+			<a href="settings.html">
+				<span id="back">Zurück</span>
+			</a>
+		</div>
+	</body>
+</html>
