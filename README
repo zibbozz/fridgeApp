@@ -1,1 +1,16 @@
-Das ist der Prototyp für die Smart-Kühlschrank app
+Der Prototyp für die Smart-Kühlschrank-App
+
+===================================================
+
+Bisherige Feature-Liste:
+
+1. Kühlschrankinhalt anzeigen
+2. Nachbestellen + Preise der Artikel
+3. Einkaufsliste
+4. Rezeptvorschläge
+5. Benachrichtigung wenn Artikel verbraucht
+6. Benachrichtigung Abgelaufene Artikel
+7. Zugriff über andere Geräte wie Laptop oder IOT Geräte (Nicht in der App sichtbar, da App nur für Smartphone)
+8. Benachrichtigung Technische Probleme
+9. Benachrichtigung offen gelassene Türe
+10.Temperatur einzelner Fächer
