@@ -6,9 +6,32 @@
 	</head>
 	<body>
 		<div id="newOrderBox">
-
+			<select id="newSelect">
+				<option>Milch 1,5% 1L (0,65€)</option>
+				<option>Cola 1,5L (0,39€)</option>
+				<option>Fleischwurst (0,99€)</option>
+				<option>Butter 250g (1,99€)</option>
+				<option>Salami (1,09€)</option>
+			</select>
+			<input type="text" id="newText" value="1" />
+			<button id="newButton">Bestellen</button>
 		</div>
-
+		<div id="manageBox">
+			<button id="manageButton">Bestellbare Artikel verwalten</button>
+		</div>
+		<span id="orders">Ausstehende Bestellungen</span>
+		<div class="orderBox" style="top:480px;">
+			<span class="orderTitle">Cola 1,5L</span>
+			<span class="orderCount">2 Stk.</span>
+			<span class="orderStatus">Bestellung eingegangen</span>
+			<button class="orderCancel">Stornieren</button>
+		</div>
+		<div class="orderBox" style="top:630px;">
+			<span class="orderTitle">Milch 1,5% 1L</span>
+			<span class="orderCount">4 Stk.</span>
+			<span class="orderStatus">Im Lieferfahrzeug</span>
+			<button class="orderCancel">Stornieren</button>
+		</div>
 		<div id="headerBar">
 			<span id="header">Bestellungen</span>
 			<a href="messages.html">
