@@ -1,0 +1,40 @@
+.recipeBox{
+	position:absolute;
+	width:100%;
+	background-color:#666666;
+	height:190px;
+}
+
+.recipeName{
+	position:absolute;
+	width:100%;
+	text-align:center;
+	color:#FFFFFF;
+	font-size:40px;
+}
+
+.difficulty{
+	position:absolute;
+	width:100%;
+	text-align:center;
+	font-size:34px;
+	top:40px;
+}
+
+.zutaten{
+	position:absolute;
+	top:80px;
+	color:#FFFFFF;
+	width:100%;
+	text-align:center;
+	font-size:40px;
+}
+
+.recipeButton{
+	position:absolute;
+	width:76%;
+	height:50px;
+	bottom:5px;
+	left:12%;
+	font-size:36px;
+}
