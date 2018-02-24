@@ -9,7 +9,7 @@ F12 => Handy Symbol oben rechts => In der oberen Leiste iPad Pro auswählen
 
 ## Anmerkungen
 
-Sämtliche Funktionen, die die Daten in der App ändern würden, sind im Moment nicht implementiert, da dieser Prototyp nur den Aufbau zeigen soll. Es werden trotzdem alle Features angedeutet, entsprechende Button, um eine Aktion auszuführen, funktionieren nicht.
+Sämtliche Funktionen, die die Daten in der App ändern würden, sind im Moment nicht implementiert, da dieser Prototyp nur den Aufbau zeigen soll. Es werden trotzdem alle Features angedeutet, entsprechende Button, um eine Aktion auszuführen, funktionieren nicht. Eine Ausnahme bilden die Nachrichten und die Einkaufslisten, doch diese Änderungen gehen verloren, sobald die Seite gewechselt wird.
 
 Bei den Rezepten funktioniert nur das erste Rezept detailliert, um das Prinzip ein mal zu zeigen. Das gleiche gilt für die Einkaufslisten.
 
