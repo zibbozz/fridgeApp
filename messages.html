@@ -19,18 +19,20 @@
 		</div>
 		<div class="messageBox" style="top:10%;">
 			<span class="messageHeader" style="color:#FF3333;">Zu hohe Temperatur</span>
-			<span class="messageContent">Zu hohe Temperatur im mittleren Fach (10,1°C)</span>
+			<span class="messageContent" style="font-size:36px;">Zu hohe Temperatur im mittleren Fach (10,1°C) | Es sollten keine heißen Gerichte in den Kühlschrank gestellt werden</span>
 		</div>
 		<div class="messageBox" style="top:23%;">
 			<span class="messageHeader" style="color:#FF3333;">Offene Tür</span>
 			<span class="messageContent">Die Türe sollte geschlossen werden, da sonst Wärme eindringen kann</span>
 		</div>
-		<div class="messageBox" style="top:36%;">
+		<div class="messageBox" id="toDelete" style="top:36%;">
 			<span class="messageHeader" style="color:#33FF33;">Rezepte aktualisiert</span>
 			<span class="messageContent">Ihre Rezepte wurden auf den neusten Stand gebracht</span>
+			<img src="pics/trash.svg" class="deleteIcon" id="deleteButton"/>
 		</div>
 		<div id="footerBar">
 
 		</div>
+		<script src="scripts/messages.js"></script>
 	</body>
 </html>
